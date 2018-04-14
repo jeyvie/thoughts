@@ -4,5 +4,5 @@
 
 ## 文章列表
 
-1. [ES6 解决了什么问题](docs/why_es6.md)
+1. [为什么要有 ES6](docs/why_es6.md)
 
