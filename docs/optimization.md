@@ -15,8 +15,6 @@
 3. 开发优化
 
 
+## 思维导图
 
-##思维导图
-![](../assets/performance.png)
-
-
+![优化](../assets/performance.png)
