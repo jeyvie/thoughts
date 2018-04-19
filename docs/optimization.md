@@ -19,4 +19,8 @@
 
 ![优化](../assets/performance.png)
 
+## 推荐阅读
+1. [页面加载性能优化](https://github.com/azl397985856/automate-everything/blob/master/chapter4.md)
+2. [前端工程](https://github.com/fouber/blog/issues/10?from=timeline&isappinstalled=0#)
+
 
