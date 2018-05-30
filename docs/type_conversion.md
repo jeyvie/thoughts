@@ -118,6 +118,8 @@
 	```
 
 
+6. [`document.all` 布尔值是 `false`, 为了检测是否为`老` 浏览器。](https://stackoverflow.com/questions/10350142/why-is-document-all-falsy?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
+
 
 
 
